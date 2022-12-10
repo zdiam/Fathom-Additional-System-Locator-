@@ -7,6 +7,4 @@ The script will locate these from an AFT Fathom export (AFT Fathom 11)
 
 Final output file will be placed into the same folder as .csv upload location
 
-File will be saved as filename
-#Setup save path to be the initial file location of the .csv file and the gpm added to the system
-filepath = filepath.replace('csv', xy+'gpm.csv')
+File will be saved as *filename*.*#gpm*
